@@ -1,8 +1,8 @@
 # 佛教開源宗
 
 > 發起者：陳鍾誠
-
-Facebook 社團: https://github.com/OpenBuddha/OpenBuddha/
+> 
+> Facebook 社團: https://github.com/OpenBuddha/OpenBuddha/
 
 ## 緣起
 
