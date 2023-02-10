@@ -2,6 +2,8 @@
 
 > 發起者：陳鍾誠
 
+Facebook 社團: https://github.com/OpenBuddha/OpenBuddha/
+
 ## 緣起
 
 2023 年 2 月 8 我的一位家人在台大醫院進行口腔檢查的結果出來了！
